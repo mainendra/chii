@@ -4,7 +4,8 @@
   "description": "Remote debug",
   "main": "index.js",
   "scripts": {
-    "start": "chii start -p $PORT"
+    "start": "chii start -p $PORT -d $DOMAIN --https",
+    "help": "chii start --help"
   },
   "repository": {
     "type": "git",
