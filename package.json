@@ -1,0 +1,25 @@
+{
+  "name": "chii",
+  "version": "0.0.1",
+  "description": "Remote debug",
+  "main": "index.js",
+  "scripts": {
+    "start": "chii start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mainendra/chii.git"
+  },
+  "keywords": [
+    "chii"
+  ],
+  "author": "Mainendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mainendra/chii/issues"
+  },
+  "homepage": "https://github.com/mainendra/chii#readme",
+  "dependencies": {
+    "chii": "^1.8.0"
+  }
+}
