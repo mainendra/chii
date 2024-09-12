@@ -4,6 +4,7 @@
   "description": "Remote debug",
   "main": "index.js",
   "scripts": {
+    "startlocal": "chii start -p 8000",
     "start": "chii start -p $PORT -d $DOMAIN",
     "help": "chii start --help"
   },
