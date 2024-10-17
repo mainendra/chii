@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/mainendra/chii#readme",
   "dependencies": {
-    "chii": "^1.15.1"
+    "chii": "^1.15.0"
   }
 }
